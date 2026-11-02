@@ -1,161 +1,161 @@
-zip,state,county,city,leads,auto_leads,home_leads,leads_w1,leads_w2,leads_w3,leads_w4,homeowners,in_status_file,contacted,quoted,sold,items,inbound_callers,inbound_calls
-21224,MD,Baltimore City,Baltimore,3,2,1,0,1,1,1,1,1,1,1,1,1,0,0
-21236,MD,Baltimore County,Perry Hall,2,1,1,0,1,1,0,1,1,1,1,1,1,1,1
-22602,VA,Frederick,Winchester,2,0,2,2,0,0,0,2,1,1,1,1,2,1,1
-20155,VA,Prince William,Gainesville,1,0,1,0,1,0,0,1,1,1,1,1,1,0,0
-20724,MD,Anne Arundel,Laurel,1,0,1,0,1,0,0,1,1,1,1,1,1,1,1
-22520,VA,Westmoreland,Montross,1,0,1,0,1,0,0,1,1,1,1,1,1,0,0
-21228,MD,Baltimore County,Catonsville,3,1,2,0,3,0,0,2,0,1,1,0,0,1,1
-20723,MD,Howard,Laurel,1,1,0,1,0,0,0,0,0,1,1,0,0,1,1
-21136,MD,Baltimore County,Reisterstown,1,0,1,1,0,0,0,1,0,1,1,0,0,1,1
-21215,MD,Baltimore City,Baltimore,7,7,0,1,2,1,3,0,0,0,0,0,0,1,1
-20774,MD,Prince George's,Upper Marlboro,6,3,3,1,1,1,3,3,0,0,0,0,0,0,0
-21222,MD,Baltimore County,Dundalk,6,4,2,2,2,2,0,2,0,0,0,0,0,0,0
-21218,MD,Baltimore City,Baltimore,5,2,3,0,1,0,4,3,0,0,0,0,0,0,0
-21061,MD,Anne Arundel,Glen Burnie,4,2,2,2,2,0,0,2,0,0,0,0,0,0,0
-21213,MD,Baltimore City,Baltimore,4,2,2,0,3,1,0,2,0,0,0,0,0,0,0
-21216,MD,Baltimore City,Baltimore,4,3,1,2,0,0,2,1,0,0,0,0,0,0,0
-22193,VA,Prince William,Woodbridge,4,2,2,1,0,2,1,2,0,0,0,0,0,1,1
-20646,MD,Charles,La Plata,3,1,2,0,2,0,1,3,0,0,0,0,0,0,0
-20653,MD,St. Mary's,Lexington Park,3,2,1,1,0,0,2,1,0,0,0,0,0,1,1
-20746,MD,Prince George's,Hillcrest Heights,3,2,1,0,0,2,1,1,0,0,0,0,0,0,0
-20854,MD,Montgomery,Potomac,3,0,3,1,1,0,1,3,0,0,0,0,0,0,0
-20877,MD,Montgomery,Gaithersburg,3,2,1,0,2,0,1,1,0,0,0,0,0,0,0
-21009,MD,Harford,Abingdon,3,2,1,1,0,1,1,2,0,0,0,0,0,0,0
-21060,MD,Anne Arundel,Glen Burnie,3,1,2,1,1,1,0,2,0,0,0,0,0,0,0
-21122,MD,Anne Arundel,Pasadena,3,0,3,1,1,1,0,3,0,0,0,0,0,0,0
-21133,MD,Baltimore County,Randallstown,3,2,1,2,0,1,0,1,0,0,0,0,0,0,0
-21202,MD,Baltimore City,Baltimore,3,1,2,0,1,1,1,2,0,0,0,0,0,0,0
-21207,MD,Baltimore County,Gwynn Oak,3,2,1,0,3,0,0,2,0,0,0,0,0,0,0
-21212,MD,Baltimore City,Baltimore,3,3,0,1,1,0,1,0,0,0,0,0,0,0,0
-21217,MD,Baltimore City,Baltimore,3,2,1,0,0,2,1,1,0,0,0,0,0,0,0
-21229,MD,Baltimore City,Baltimore,3,1,2,1,0,2,0,3,0,0,0,0,0,1,1
-21234,MD,Baltimore County,Parkville,3,2,1,0,0,3,0,1,0,0,0,0,0,0,0
-21502,MD,Allegany,Cumberland,3,1,2,0,1,2,0,2,0,0,0,0,0,0,0
-21532,MD,Allegany,Frostburg,3,1,2,1,1,1,0,2,0,0,0,0,0,0,0
-21804,MD,Wicomico,Salisbury,3,1,2,0,1,1,1,2,0,0,0,0,0,0,0
-21921,MD,Cecil,Elkton,3,2,1,1,1,1,0,2,0,0,0,0,0,0,0
-20111,VA,Prince William,Manassas,2,0,2,1,0,1,0,2,0,0,0,0,0,0,0
-20149,VA,Loudoun,Ashburn,2,1,1,1,0,0,1,1,0,0,0,0,0,0,0
-20607,MD,Prince George's,Accokeek,2,1,1,1,0,0,1,2,0,0,0,0,0,0,0
-20706,MD,Prince George's,Glenarden,2,2,0,0,0,1,1,0,0,0,0,0,0,0,0
-20708,MD,Prince George's,Laurel,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0
-20721,MD,Prince George's,Bowie,2,0,2,0,2,0,0,2,0,0,0,0,0,1,1
-20735,MD,Prince George's,Clinton,2,1,1,0,0,1,1,1,0,0,0,0,0,0,0
-20745,MD,Prince George's,Oxon Hill,2,2,0,0,0,1,1,0,0,0,0,0,0,0,0
-20748,MD,Prince George's,Temple Hills,2,1,1,0,0,2,0,2,0,0,0,0,0,0,0
-20783,MD,Prince George's,Hyattsville,2,2,0,0,0,1,1,1,0,0,0,0,0,0,0
-20878,MD,Montgomery,Gaithersburg,2,0,2,0,1,1,0,2,0,0,0,0,0,0,0
-20886,MD,Montgomery,Montgomery Village,2,2,0,1,1,0,0,1,0,0,0,0,0,1,2
-20910,MD,Montgomery,Silver Spring,2,2,0,0,0,1,1,0,0,0,0,0,0,0,0
-21040,MD,Harford,Edgewood,2,1,1,0,0,1,1,1,0,0,0,0,0,0,0
-21076,MD,Anne Arundel,Hanover,2,2,0,1,1,0,0,2,0,0,0,0,0,0,0
-21144,MD,Anne Arundel,Severn,2,1,1,1,0,1,0,1,0,0,0,0,0,0,0
-21206,MD,Baltimore City,Baltimore,2,1,1,0,1,1,0,1,0,0,0,0,0,0,0
-21221,MD,Baltimore County,Essex,2,2,0,0,0,0,2,0,0,0,0,0,0,0,0
-21225,MD,Baltimore City,Baltimore,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0
-21237,MD,Baltimore County,Baltimore,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0
-21853,MD,Somerset,Oriole,2,1,1,0,0,1,1,2,0,0,0,0,0,0,0
-22003,VA,Fairfax,Annandale,2,0,2,2,0,0,0,2,0,0,0,0,0,0,0
-22043,VA,Fairfax,Falls Church,2,0,2,0,2,0,0,2,0,0,0,0,0,0,0
-22124,VA,Fairfax,Oakton,2,1,1,0,1,0,1,1,0,0,0,0,0,0,0
-22153,VA,Fairfax,Springfield,2,0,2,2,0,0,0,2,0,0,0,0,0,0,0
-22312,VA,Fairfax,Alexandria,2,0,2,2,0,0,0,2,0,0,0,0,0,0,0
-20148,VA,Loudoun,Ashburn,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-20152,VA,Loudoun,South Riding,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-20165,VA,Loudoun,Sterling,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-20169,VA,Prince William,Haymarket,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-20170,VA,Fairfax,Herndon,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-20176,VA,Loudoun,Leesburg,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-20187,VA,Fauquier,Warrenton,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-20621,MD,St. Mary's,Chaptico,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-20623,MD,Prince George's,Cheltenham,1,0,1,0,0,0,1,1,0,0,0,0,0,1,2
-20634,MD,St. Mary's,Great Mills,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
-20636,MD,St. Mary's,Hollywood,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-20639,MD,Calvert,Huntingtown,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-20640,MD,Charles,Indian Head,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-20711,MD,Anne Arundel,Lothian,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-20715,MD,Prince George's,Bowie,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-20722,MD,Prince George's,Brentwood,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-20743,MD,Prince George's,Capitol Heights,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-20744,MD,Prince George's,Fort Washington,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-20747,MD,Prince George's,District Heights,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-20751,MD,Anne Arundel,Deale,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-20770,MD,Prince George's,Greenbelt,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-20772,MD,Prince George's,Upper Marlboro,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-20782,MD,Prince George's,Hyattsville,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1
-20784,MD,Prince George's,Hyattsville,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-20785,MD,Prince George's,Cheverly,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-20850,MD,Montgomery,Rockville,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-20852,MD,Montgomery,Rockville,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-20853,MD,Montgomery,Rockville,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
-20901,MD,Montgomery,Silver Spring,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-20902,MD,Montgomery,Silver Spring,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-20903,MD,Montgomery,Silver Spring,1,0,1,0,1,0,0,1,0,0,0,0,0,1,1
-20906,MD,Montgomery,Silver Spring,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
-21042,MD,Howard,Ellicott City,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
-21044,MD,Howard,Columbia,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-21045,MD,Howard,Columbia,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
-21050,MD,Harford,Forest Hill,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-21051,MD,Baltimore County,Fork,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-21053,MD,Baltimore County,Freeland,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
-21108,MD,Anne Arundel,Millersville,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-21114,MD,Anne Arundel,Crofton,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-21117,MD,Baltimore County,Owings Mills,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-21157,MD,Carroll,Westminster,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-21158,MD,Carroll,Westminster,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-21205,MD,Baltimore City,Baltimore,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-21209,MD,Baltimore City,Baltimore,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-21214,MD,Baltimore City,Baltimore,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-21220,MD,Baltimore County,Middle River,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-21223,MD,Baltimore City,Baltimore,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-21230,MD,Baltimore City,Baltimore,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-21233,MD,Baltimore City,Baltimore,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-21401,MD,Anne Arundel,Annapolis,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-21409,MD,Anne Arundel,Annapolis,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-21539,MD,Allegany,Lonaconing,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-21550,MD,Garrett,Oakland,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-21613,MD,Dorchester,Cambridge,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-21619,MD,Queen Anne's,Chester,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
-21620,MD,Kent,Chestertown,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-21638,MD,Queen Anne's,Grasonville,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-21678,MD,Kent,Worton,1,1,0,0,1,0,0,1,0,0,0,0,0,1,1
-21702,MD,Frederick,Frederick,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-21703,MD,Frederick,Frederick,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-21711,MD,Washington,Big Pool,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-21713,MD,Washington,Boonsboro,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-21740,MD,Washington,Hagerstown,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-21757,MD,Carroll,Middleburg,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-21770,MD,Frederick,Monrovia,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-21771,MD,Frederick,Mount Airy,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
-21780,MD,Frederick,Sabillasville,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-21784,MD,Carroll,Sykesville,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-21793,MD,Frederick,Walkersville,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-21817,MD,Somerset,Crisfield,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-21826,MD,Wicomico,Fruitland,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-21829,MD,Worcester,Girdletree,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-21851,MD,Worcester,Pocomoke City,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-21856,MD,Wicomico,Quantico,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
-21904,MD,Cecil,Port Deposit,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-21911,MD,Cecil,Rising Sun,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-21912,MD,Cecil,Warwick,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-21918,MD,Cecil,Conowingo,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-22039,VA,Fairfax,Fairfax Station,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-22042,VA,Fairfax,Falls Church,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-22079,VA,Fairfax,Lorton,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-22102,VA,Fairfax,Mc Lean,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-22151,VA,Fairfax,Springfield,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-22152,VA,Fairfax,West Springfield,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
-22182,VA,Fairfax,Vienna,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-22191,VA,Prince William,Woodbridge,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
-22192,VA,Prince William,Woodbridge,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
-22306,VA,Fairfax,Alexandria,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-22307,VA,Fairfax,Alexandria,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-22309,VA,Fairfax,Alexandria,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-22405,VA,Stafford,Fredericksburg,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
-22406,VA,Stafford,Fredericksburg,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-22488,VA,Westmoreland,Kinsale,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
-22554,VA,Stafford,Stafford,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1
-22556,VA,Stafford,Stafford,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-22603,VA,Frederick,Winchester,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-22625,VA,Frederick,Cross Junction,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+zip,state,county,city,leads,auto_leads,home_leads,leads_w1,leads_w2,leads_w3,leads_w4,homeowners,in_status_file,contacted,quoted,x_dated,sold,items,inbound_callers,inbound_calls
+21218,MD,Baltimore City,Baltimore,5,2,3,0,1,0,4,3,3,1,1,0,1,3,0,0
+21224,MD,Baltimore City,Baltimore,3,2,1,0,1,1,1,1,3,1,1,0,1,1,0,0
+21236,MD,Baltimore County,Perry Hall,2,1,1,0,1,1,0,1,2,1,1,0,1,1,1,1
+22602,VA,Frederick,Winchester,2,0,2,2,0,0,0,2,2,1,1,0,1,2,1,1
+20155,VA,Prince William,Gainesville,1,0,1,0,1,0,0,1,1,1,1,0,1,1,0,0
+20623,MD,Prince George's,Cheltenham,1,0,1,0,0,0,1,1,1,1,1,0,1,1,1,2
+20724,MD,Anne Arundel,Laurel,1,0,1,0,1,0,0,1,1,1,1,0,1,1,1,1
+22520,VA,Westmoreland,Montross,1,0,1,0,1,0,0,1,1,1,1,0,1,3,0,0
+20721,MD,Prince George's,Bowie,2,0,2,0,2,0,0,2,2,2,2,0,0,0,1,1
+20774,MD,Prince George's,Upper Marlboro,6,3,3,1,1,1,3,3,6,3,1,0,0,0,0,0
+21222,MD,Baltimore County,Dundalk,6,4,2,2,2,2,0,2,6,2,1,1,0,0,0,0
+22193,VA,Prince William,Woodbridge,4,2,2,1,0,2,1,2,2,1,1,0,0,0,1,1
+20877,MD,Montgomery,Gaithersburg,3,2,1,0,2,0,1,1,3,1,1,0,0,0,0,0
+21133,MD,Baltimore County,Randallstown,3,2,1,2,0,1,0,1,2,1,1,0,0,0,0,0
+21202,MD,Baltimore City,Baltimore,3,1,2,0,1,1,1,2,3,1,1,0,0,0,0,0
+21212,MD,Baltimore City,Baltimore,3,3,0,1,1,0,1,0,3,1,1,0,0,0,0,0
+21228,MD,Baltimore County,Catonsville,3,1,2,0,3,0,0,2,3,1,1,0,0,0,1,1
+21229,MD,Baltimore City,Baltimore,3,1,2,1,0,2,0,3,2,1,1,0,0,0,1,1
+21502,MD,Allegany,Cumberland,3,1,2,0,1,2,0,2,1,1,1,0,0,0,0,0
+20715,MD,Prince George's,Bowie,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0
+20723,MD,Howard,Laurel,1,1,0,1,0,0,0,0,1,1,1,0,0,0,1,1
+20853,MD,Montgomery,Rockville,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+20902,MD,Montgomery,Silver Spring,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0
+21042,MD,Howard,Ellicott City,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+21136,MD,Baltimore County,Reisterstown,1,0,1,1,0,0,0,1,1,1,1,0,0,0,1,1
+21401,MD,Anne Arundel,Annapolis,1,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0
+21678,MD,Kent,Worton,1,1,0,0,1,0,0,1,1,1,1,0,0,0,1,1
+21713,MD,Washington,Boonsboro,1,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0
+21740,MD,Washington,Hagerstown,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0
+21784,MD,Carroll,Sykesville,1,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0
+22192,VA,Prince William,Woodbridge,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0
+21215,MD,Baltimore City,Baltimore,7,7,0,1,2,1,3,0,4,1,0,0,0,0,1,1
+21061,MD,Anne Arundel,Glen Burnie,4,2,2,2,2,0,0,2,3,0,0,0,0,0,0,0
+21213,MD,Baltimore City,Baltimore,4,2,2,0,3,1,0,2,3,0,0,0,0,0,0,0
+21216,MD,Baltimore City,Baltimore,4,3,1,2,0,0,2,1,3,1,0,1,0,0,0,0
+20646,MD,Charles,La Plata,3,1,2,0,2,0,1,3,3,1,0,1,0,0,0,0
+20653,MD,St. Mary's,Lexington Park,3,2,1,1,0,0,2,1,2,1,0,1,0,0,1,1
+20746,MD,Prince George's,Hillcrest Heights,3,2,1,0,0,2,1,1,2,0,0,0,0,0,0,0
+20854,MD,Montgomery,Potomac,3,0,3,1,1,0,1,3,2,0,0,0,0,0,0,0
+21009,MD,Harford,Abingdon,3,2,1,1,0,1,1,2,2,0,0,0,0,0,0,0
+21060,MD,Anne Arundel,Glen Burnie,3,1,2,1,1,1,0,2,2,0,0,0,0,0,0,0
+21122,MD,Anne Arundel,Pasadena,3,0,3,1,1,1,0,3,3,0,0,0,0,0,0,0
+21207,MD,Baltimore County,Gwynn Oak,3,2,1,0,3,0,0,2,3,0,0,0,0,0,0,0
+21217,MD,Baltimore City,Baltimore,3,2,1,0,0,2,1,1,2,0,0,0,0,0,0,0
+21234,MD,Baltimore County,Parkville,3,2,1,0,0,3,0,1,2,0,0,0,0,0,0,0
+21532,MD,Allegany,Frostburg,3,1,2,1,1,1,0,2,2,0,0,0,0,0,0,0
+21804,MD,Wicomico,Salisbury,3,1,2,0,1,1,1,2,0,0,0,0,0,0,0,0
+21921,MD,Cecil,Elkton,3,2,1,1,1,1,0,2,1,0,0,0,0,0,0,0
+20111,VA,Prince William,Manassas,2,0,2,1,0,1,0,2,2,0,0,0,0,0,0,0
+20149,VA,Loudoun,Ashburn,2,1,1,1,0,0,1,1,2,1,0,1,0,0,0,0
+20607,MD,Prince George's,Accokeek,2,1,1,1,0,0,1,2,2,1,0,0,0,0,0,0
+20706,MD,Prince George's,Glenarden,2,2,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+20708,MD,Prince George's,Laurel,2,2,0,1,1,0,0,0,2,0,0,0,0,0,0,0
+20735,MD,Prince George's,Clinton,2,1,1,0,0,1,1,1,2,1,0,0,0,0,0,0
+20745,MD,Prince George's,Oxon Hill,2,2,0,0,0,1,1,0,2,1,0,1,0,0,0,0
+20748,MD,Prince George's,Temple Hills,2,1,1,0,0,2,0,2,2,0,0,0,0,0,0,0
+20783,MD,Prince George's,Hyattsville,2,2,0,0,0,1,1,1,2,0,0,0,0,0,0,0
+20878,MD,Montgomery,Gaithersburg,2,0,2,0,1,1,0,2,2,1,0,0,0,0,0,0
+20886,MD,Montgomery,Montgomery Village,2,2,0,1,1,0,0,1,2,0,0,0,0,0,1,2
+20910,MD,Montgomery,Silver Spring,2,2,0,0,0,1,1,0,1,1,0,1,0,0,0,0
+21040,MD,Harford,Edgewood,2,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0
+21076,MD,Anne Arundel,Hanover,2,2,0,1,1,0,0,2,2,0,0,0,0,0,0,0
+21144,MD,Anne Arundel,Severn,2,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0
+21206,MD,Baltimore City,Baltimore,2,1,1,0,1,1,0,1,2,1,0,0,0,0,0,0
+21221,MD,Baltimore County,Essex,2,2,0,0,0,0,2,0,2,0,0,0,0,0,0,0
+21225,MD,Baltimore City,Baltimore,2,2,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+21237,MD,Baltimore County,Baltimore,2,2,0,0,0,2,0,0,2,1,0,0,0,0,0,0
+21853,MD,Somerset,Oriole,2,1,1,0,0,1,1,2,2,1,0,0,0,0,0,0
+22003,VA,Fairfax,Annandale,2,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0
+22043,VA,Fairfax,Falls Church,2,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0
+22124,VA,Fairfax,Oakton,2,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0
+22153,VA,Fairfax,Springfield,2,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0
+22312,VA,Fairfax,Alexandria,2,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0
+20148,VA,Loudoun,Ashburn,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+20152,VA,Loudoun,South Riding,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+20165,VA,Loudoun,Sterling,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+20169,VA,Prince William,Haymarket,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+20170,VA,Fairfax,Herndon,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+20176,VA,Loudoun,Leesburg,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+20187,VA,Fauquier,Warrenton,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+20621,MD,St. Mary's,Chaptico,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+20634,MD,St. Mary's,Great Mills,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+20636,MD,St. Mary's,Hollywood,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+20639,MD,Calvert,Huntingtown,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+20640,MD,Charles,Indian Head,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+20711,MD,Anne Arundel,Lothian,1,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0
+20722,MD,Prince George's,Brentwood,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+20743,MD,Prince George's,Capitol Heights,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+20744,MD,Prince George's,Fort Washington,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+20747,MD,Prince George's,District Heights,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+20751,MD,Anne Arundel,Deale,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0
+20770,MD,Prince George's,Greenbelt,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+20772,MD,Prince George's,Upper Marlboro,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+20782,MD,Prince George's,Hyattsville,1,1,0,0,0,0,1,0,1,1,0,0,0,0,1,1
+20784,MD,Prince George's,Hyattsville,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+20785,MD,Prince George's,Cheverly,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+20850,MD,Montgomery,Rockville,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+20852,MD,Montgomery,Rockville,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+20901,MD,Montgomery,Silver Spring,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+20903,MD,Montgomery,Silver Spring,1,0,1,0,1,0,0,1,1,1,0,1,0,0,1,1
+20906,MD,Montgomery,Silver Spring,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+21044,MD,Howard,Columbia,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+21045,MD,Howard,Columbia,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+21050,MD,Harford,Forest Hill,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+21051,MD,Baltimore County,Fork,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+21053,MD,Baltimore County,Freeland,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+21108,MD,Anne Arundel,Millersville,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+21114,MD,Anne Arundel,Crofton,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+21117,MD,Baltimore County,Owings Mills,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+21157,MD,Carroll,Westminster,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+21158,MD,Carroll,Westminster,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+21205,MD,Baltimore City,Baltimore,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+21209,MD,Baltimore City,Baltimore,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+21214,MD,Baltimore City,Baltimore,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+21220,MD,Baltimore County,Middle River,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+21223,MD,Baltimore City,Baltimore,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+21230,MD,Baltimore City,Baltimore,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+21233,MD,Baltimore City,Baltimore,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+21409,MD,Anne Arundel,Annapolis,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+21539,MD,Allegany,Lonaconing,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+21550,MD,Garrett,Oakland,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+21613,MD,Dorchester,Cambridge,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+21619,MD,Queen Anne's,Chester,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+21620,MD,Kent,Chestertown,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+21638,MD,Queen Anne's,Grasonville,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+21702,MD,Frederick,Frederick,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+21703,MD,Frederick,Frederick,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+21711,MD,Washington,Big Pool,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+21757,MD,Carroll,Middleburg,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+21770,MD,Frederick,Monrovia,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+21771,MD,Frederick,Mount Airy,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+21780,MD,Frederick,Sabillasville,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+21793,MD,Frederick,Walkersville,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+21817,MD,Somerset,Crisfield,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+21826,MD,Wicomico,Fruitland,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+21829,MD,Worcester,Girdletree,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+21851,MD,Worcester,Pocomoke City,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+21856,MD,Wicomico,Quantico,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+21904,MD,Cecil,Port Deposit,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+21911,MD,Cecil,Rising Sun,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+21912,MD,Cecil,Warwick,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+21918,MD,Cecil,Conowingo,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+22039,VA,Fairfax,Fairfax Station,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+22042,VA,Fairfax,Falls Church,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+22079,VA,Fairfax,Lorton,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+22102,VA,Fairfax,Mc Lean,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+22151,VA,Fairfax,Springfield,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+22152,VA,Fairfax,West Springfield,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+22182,VA,Fairfax,Vienna,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+22191,VA,Prince William,Woodbridge,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+22306,VA,Fairfax,Alexandria,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+22307,VA,Fairfax,Alexandria,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+22309,VA,Fairfax,Alexandria,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+22405,VA,Stafford,Fredericksburg,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+22406,VA,Stafford,Fredericksburg,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+22488,VA,Westmoreland,Kinsale,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+22554,VA,Stafford,Stafford,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,1
+22556,VA,Stafford,Stafford,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+22603,VA,Frederick,Winchester,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22625,VA,Frederick,Cross Junction,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
