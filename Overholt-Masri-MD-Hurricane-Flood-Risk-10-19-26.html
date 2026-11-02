@@ -169,7 +169,7 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
       <a href="#s7"><span class="dot"></span>Hurricane &amp; flood questions</a>
       <a href="#s8"><span class="dot"></span>Data &amp; files</a>
     </nav>
-    <div class="foot">GOAL Performance Marketing<br>All conversion metrics based on Leads, not Clicks.</div>
+    <div class="foot">GOAL Performance Marketing<br>All conversion metrics calculated based on Leads, not Clicks.</div>
   </aside>
 
   <main class="main">
@@ -285,7 +285,7 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
           <span class="li"><span class="sw" style="background:#F0A93B"></span>Wind, flood and deductible review &middot; High &middot; 49 ZIPs &middot; 5.7%</span>
           <span class="li"><span class="sw" style="background:#C7D6E4"></span>No change &middot; 272 ZIPs &middot; 84.4%</span>
         </div>
-        <div class="fnote">Excluding every Extreme ZIP would remove <b>9.9%</b> of Maryland housing from Home; adding the High tier would bring it to 15.6%. We do not recommend a blanket exclusion. We recommend excluding only the ZIPs where your carriers are not writing new home business today, and treating the rest of the Extreme and High tiers as a conversation: roof age and how wind is written, how the hurricane or wind deductible works, and whether the home needs or would benefit from a flood policy.</div>
+        <div class="fnote">Excluding every Extreme ZIP would remove <b>9.9%</b> of Maryland housing from Home; adding the High tier would bring it to 15.6%. For discussion: we can review together the ZIPs where new home business cannot be written today, and treat the rest of the Extreme and High tiers as a conversation: roof age and how wind is written, how the hurricane or wind deductible works, and whether the home needs or would benefit from a flood policy. No geo-targeting changes have been made.</div>
       </div>
       <div class="split" style="margin-bottom:18px;">
         <div class="panel">
@@ -310,7 +310,7 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
       <div class="panel">
         <div class="pt">Largest Extreme-tier ZIPs by housing units</div>
         <table class="mtable">
-          <thead><tr><th>ZIP</th><th>County</th><th class="r">Score 0&ndash;100</th><th class="r">Hurricane score</th><th class="r">Flooding score</th><th>Flood type</th><th class="r">Housing units</th></tr></thead>
+          <thead><tr><th>ZIP</th><th>County</th><th class="r">Score 0 to 100</th><th class="r">Hurricane score</th><th class="r">Flooding score</th><th>Flood type</th><th class="r">Housing units</th></tr></thead>
           <tbody>
             <tr><td class="nm">21842</td><td>Worcester County</td><td class="r">84.8</td><td class="r">93.0</td><td class="r">98.9</td><td>Coastal</td><td class="r">32,621</td></tr>
 <tr><td class="nm">21804</td><td>Wicomico County</td><td class="r">61.7</td><td class="r">89.0</td><td class="r">42.5</td><td>Coastal</td><td class="r">17,049</td></tr>
@@ -439,7 +439,7 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
 <div class="fstep"><div class="lab">High<small>49 ZIPs &middot; 5.7% of housing</small></div><div class="fbar"><i style="background:#057BE5" data-w="9">3 leads</i></div><div class="pct"></div></div>
 <div class="fstep"><div class="lab">Moderate<small>116 ZIPs &middot; 26.6% of housing</small></div><div class="fbar"><i style="background:#057BE5" data-w="62">21 leads</i></div><div class="pct"></div></div>
 <div class="fstep"><div class="lab">Low<small>156 ZIPs &middot; 57.9% of housing</small></div><div class="fbar"><i style="background:#057BE5" data-w="100">34 leads</i></div><div class="pct"></div></div>
-<div class="fnote"><b>10</b> Home leads (15.4%) and <b>3</b> Auto leads (5.6%) came from High or Extreme ZIPs, which hold 15.6% of Maryland housing. Extreme ZIPs alone supplied <b>7</b> Home leads (10.8%) against 9.9% of housing, so an appetite-based exclusion list would have cost Home volume roughly in proportion to the housing it removes. Two weeks of leads (Oct 6 to Oct 19, 2026) is a very small, early sample: 120 Maryland leads across 84 ZIPs, so one or two leads can move a ZIP, a county or a whole region. Read these splits as a first look, not a trend.</div>
+<div class="fnote"><b>10</b> Home leads (15.4%) and <b>3</b> Auto leads (5.6%) came from High or Extreme ZIPs, which hold 15.6% of Maryland housing. Extreme ZIPs alone supplied <b>7</b> Home leads (10.8%) against 9.9% of housing, so leaving those ZIPs out would cost Home volume roughly in proportion to their housing. Two weeks of leads (Oct 6 to Oct 19, 2026) is a very small, early sample: 120 Maryland leads across 84 ZIPs, so one or two leads can move a ZIP, a county or a whole region. Read these splits as a first look, not a trend.</div>
 <div class="fnote"><b>Virginia:</b> 36 of the 156 leads (26 Home, 10 Auto) came from Virginia, mostly Northern Virginia, not Maryland: Fairfax 19, Prince William 5, Frederick 4, Stafford 4, Loudoun 2, Fauquier 1, Westmoreland 1. Scored on the same hurricane and flood scale we use for Virginia, 32 of the 35 with a Census profile are in Low or Moderate ZIPs, 2 in High and 1 in Extreme. They are left out of the Maryland tables and shares.</div>
       </div>
     </section>
@@ -483,7 +483,7 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
       <div class="panel">
         <ul class="cfg">
             <li><span class="ck">Risk source</span><span class="cv">FEMA National Risk Index, census tract table, December 2025 release (hurricane, inland flooding, coastal flooding, strong wind, tornado, hail), all 1,463 Maryland tracts. The December 2025 release reports river flooding as inland flooding. Peril choice from the same release&#39;s expected annual building loss, summed across Maryland tracts.</span></li>
-            <li><span class="ck">Geography</span><span class="cv">U.S. Census Bureau 2020 ZIP Code Tabulation Areas and the 2020 ZCTA-to-tract relationship file. The file reports land-area overlaps, not population, so each tract&#39;s values are weighted into a ZIP by the tract&#39;s population times the share of its land inside the ZIP. Tract parts outside Maryland are not scored. Baltimore City is treated as its own county-equivalent. Housing counts from ACS 2020&ndash;2024.</span></li>
+            <li><span class="ck">Geography</span><span class="cv">U.S. Census Bureau 2020 ZIP Code Tabulation Areas and the 2020 ZCTA-to-tract relationship file. The file reports land-area overlaps, not population, so each tract&#39;s values are weighted into a ZIP by the tract&#39;s population times the share of its land inside the ZIP. Tract parts outside Maryland are not scored. Baltimore City is treated as its own county-equivalent. Housing counts from ACS 2020 to 2024.</span></li>
             <li><span class="ck">Leads</span><span class="cv">All 156 GOAL leads for this account, Oct 6 to Oct 19, 2026 (91 Home, 65 Auto), counted by ZIP: 120 in Maryland and 36 in Virginia. 65 of 65 Maryland Home leads and 54 of 55 Maryland Auto leads matched a populated Maryland ZIP. Virginia leads are described with our Virginia tiers, which use the same cut points. Two weeks of leads is a very small, early sample; the tier splits will move as volume builds.</span></li>
             <li><span class="ck">Limits</span><span class="cv">A ZIP score describes the ZIP, not a house. Roof age, construction, elevation, flood zone and distance to the water decide each quote; the tiers decide where to ask first.</span></li>
             <li><span class="ck">Files</span><span class="cv"><a href="Overholt-Masri-MD-ZIP-Data-10-19-26.csv" style="color:var(--blue)"><b>Overholt-Masri-MD-ZIP-Data-10-19-26.csv</b></a> &middot; every Maryland ZIP, every score, tier and treatment column, plus the demographics used in the companion report.</span></li>
