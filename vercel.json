@@ -2,20 +2,92 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/Overholt-Masri-Campaign-Overview-Since-Launch-11-02-26",
+      "destination": "/Overholt-Masri-Campaign-Overview-Since-Launch-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-Campaign-Overview-Since-Launch-11-02-26.html",
+      "destination": "/Overholt-Masri-Campaign-Overview-Since-Launch-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-Auto-Campaign-Performance-Since-Launch-11-02-26",
+      "destination": "/Overholt-Masri-Auto-Campaign-Performance-Since-Launch-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-Auto-Campaign-Performance-Since-Launch-11-02-26.html",
+      "destination": "/Overholt-Masri-Auto-Campaign-Performance-Since-Launch-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-Home-Campaign-Performance-Since-Launch-11-02-26",
+      "destination": "/Overholt-Masri-Home-Campaign-Performance-Since-Launch-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-Home-Campaign-Performance-Since-Launch-11-02-26.html",
+      "destination": "/Overholt-Masri-Home-Campaign-Performance-Since-Launch-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-Source-ZIP-Sales-11-02-26",
+      "destination": "/Overholt-Masri-Source-ZIP-Sales-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-Source-ZIP-Sales-11-02-26.html",
+      "destination": "/Overholt-Masri-Source-ZIP-Sales-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-Inbound-Call-Review-11-02-26",
+      "destination": "/Overholt-Masri-Inbound-Call-Review-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-Inbound-Call-Review-11-02-26.html",
+      "destination": "/Overholt-Masri-Inbound-Call-Review-11-16-26",
+      "permanent": false
+    },
+    {
+      "source": "/Overholt-Masri-ZIP-Sales-11-02-26.csv",
+      "destination": "/Overholt-Masri-ZIP-Sales-11-16-26.csv",
+      "permanent": false
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
       ]
     },
     {
       "source": "/",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     }
   ]
